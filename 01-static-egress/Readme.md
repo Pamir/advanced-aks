@@ -54,6 +54,7 @@ spec:
 kubectl apply -f egress-service.yaml 
 kubectl describe svc azure-egress
 ```
+
 ```
 NAME           TYPE           CLUSTER-IP   EXTERNAL-IP     PORT(S)        AGE
 azure-egress   LoadBalancer   10.0.60.42   13.81.210.241   80:32340/TCP   10m
