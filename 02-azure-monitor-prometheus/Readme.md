@@ -14,5 +14,5 @@ Enable simple service to monitor
 ```
  kubectl apply -f container-azm-ms-agentconfig.yaml 
 ```
-Reference-style: 
-![Kusto][images/logs.png]
+
+![alt text](images/logs.png "Azure Logs")
